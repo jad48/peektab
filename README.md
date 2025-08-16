@@ -16,3 +16,4 @@ A fast, friendly CLI to **peek** at tabular data right in your terminal.
 pip install -e .
 # or with pipx
 pipx install .
+
